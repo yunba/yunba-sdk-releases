@@ -1,5 +1,11 @@
 # Yunba iOS SDK Changelog  
 
+##1.6.0
+1.修改注册请求，适配iOS9 ATS
+2.重构demo
+3.在断链通知中增加链接断开原因
+4.增加apns界面及apns通知处理
+
 ##1.5.2
 1.允许setAlias参数为空（unset alias）  
 2.增加iOS 8.4支持
