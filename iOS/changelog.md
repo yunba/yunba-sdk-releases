@@ -1,20 +1,25 @@
 # Yunba iOS SDK Changelog  
 
+##1.6.2
+1. 增加`API timeout`和`heartbeat`的启动参数选项
+2. 增加API超时后的网络检查
+3. 修复一个网络层的bug
+4. 修复一个demo显示错误
+
 ##1.6.0
-1.修改注册请求，适配iOS9 ATS
-2.重构demo
-3.在断链通知中增加链接断开原因
-4.增加apns界面及apns通知处理
+1. 修改注册请求，适配iOS9 ATS
+2. 重构demo
+3. 在断链通知中增加链接断开原因
+4. 增加apns界面及apns通知处理
 
 ##1.5.2
-1.允许setAlias参数为空（unset alias）  
-2.增加iOS 8.4支持
-
+1. 允许setAlias参数为空（unset alias）
+2. 增加iOS 8.4支持
 
 ##1.5.1
-1.增加GetStateV2/GetAliasListV2/GetTopicListV2 API  
-2.增加带有ttl参数的publish2 API  
-3.增加iOS8.3支持  
+1. 增加GetStateV2/GetAliasListV2/GetTopicListV2 API
+2. 增加带有ttl参数的publish2 API
+3. 增加iOS8.3支持
 
 ##1.5.0
-初始版本，具体请参考SDK文档
+* 初始版本，具体请参考SDK文档
