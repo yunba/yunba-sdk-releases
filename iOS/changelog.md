@@ -1,5 +1,10 @@
 # Yunba iOS SDK Changelog  
 
+##1.6.3
+1. 修复一个网络层的bug
+2. 修复Xcode7下的无效编译告警
+3. 加快SDK链接速度
+
 ##1.6.2
 1. 增加`API timeout`和`heartbeat`的启动参数选项
 2. 增加API超时后的网络检查
