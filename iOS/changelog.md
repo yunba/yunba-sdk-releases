@@ -1,4 +1,9 @@
 # Yunba iOS SDK Changelog  
+##1.7.0
+1. 优化SDK在IPv6-only网络下的链接状况
+2. 针对新版本iOS做出链接优化
+3. 增加iOS 9.3支持
+
 ##1.6.4
 1. 修复在网络状况反复失效时造成的token上传错误
 2. 修复一个demo显示错位的问题
