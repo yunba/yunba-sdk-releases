@@ -1,4 +1,7 @@
 # Yunba iOS SDK Changelog  
+##1.7.1
+1. 解决1.7.0版本在飞行模式下的assert crash bug
+
 ##1.7.0
 1. 优化SDK在IPv6-only网络下的链接状况
 2. 针对新版本iOS做出链接优化
