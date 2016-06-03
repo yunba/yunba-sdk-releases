@@ -1,4 +1,9 @@
 # Yunba iOS SDK Changelog  
+##1.7.3
+1. 修复一个内存申请过多导致的问题
+2. 修复demo中的显示错误
+3. 修复网络状况较差时长时间connnect无返回的问题
+
 ##1.7.1
 1. 解决1.7.0版本在飞行模式下的assert crash bug
 
